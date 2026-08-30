@@ -1,10 +1,8 @@
-# КОНСТАНТЫ:
 MILLILITERS_RECOMENDATION = 30
 MILLILITERS_PER_LITER = 1000
 DIVING_LINE = 56
 
 
-# КОД:
 def program():
     """
     Бот для высчитывания ИМТ и нормы воды
